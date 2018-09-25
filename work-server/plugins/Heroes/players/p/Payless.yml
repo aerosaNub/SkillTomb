@@ -1,0 +1,54 @@
+class: Cleric
+secondary-class: crafter
+verbose-exp: true
+verbose-mana: true
+verbose-stamina: false
+verbose-skills: true
+suppressed: []
+mana: 125
+stamina: 1000
+attributes:
+  Cleric:
+    STRENGTH: 0
+    CONSTITUTION: 0
+    ENDURANCE: 0
+    DEXTERITY: 0
+    INTELLECT: 0
+    WISDOM: 0
+    CHARISMA: 0
+  Citizen:
+    STRENGTH: 0
+    CONSTITUTION: 0
+    ENDURANCE: 0
+    DEXTERITY: 0
+    INTELLECT: 0
+    WISDOM: 0
+    CHARISMA: 0
+  Admin:
+    STRENGTH: 0
+    CONSTITUTION: 0
+    ENDURANCE: 0
+    DEXTERITY: 0
+    INTELLECT: 0
+    WISDOM: 0
+    CHARISMA: 0
+allocation-points:
+  Cleric: 3
+  Citizen: 3
+  Admin: 3
+skill-settings:
+  recall:
+    server: ''
+    world: world
+    x: 198.60762067646212
+    y: 65.0
+    z: 258.520394508324
+    yaw: -268.4768981933594
+    pitch: 73.1836166381836
+cooldowns: {}
+experience:
+  crafter: 0.0
+  Citizen: 0.0
+  Admin: 0.0
+mastered: {}
+binds: {}

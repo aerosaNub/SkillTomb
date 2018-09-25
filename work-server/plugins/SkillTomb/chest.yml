@@ -1,0 +1,180 @@
+Chests:
+  '1':
+    rarity: COMMON
+    location:
+      world: world
+      x: 223.0
+      y: 68.0
+      z: 231.0
+      yaw: 0.0
+      pitch: 0.0
+    already_used:
+    - d7a58323-767c-36b6-ad26-4d1f4354fb57
+  '2':
+    rarity: COMMON
+    location:
+      world: world
+      x: 225.0
+      y: 68.0
+      z: 231.0
+      yaw: 0.0
+      pitch: 0.0
+    already_used:
+    - d7a58323-767c-36b6-ad26-4d1f4354fb57
+  '3':
+    rarity: COMMON
+    location:
+      world: world
+      x: 223.0
+      y: 68.0
+      z: 233.0
+      yaw: 0.0
+      pitch: 0.0
+    already_used:
+    - d7a58323-767c-36b6-ad26-4d1f4354fb57
+  '4':
+    rarity: SUPER_RARE
+    location:
+      world: world
+      x: 226.0
+      y: 68.0
+      z: 233.0
+      yaw: 0.0
+      pitch: 0.0
+    already_used:
+    - d7a58323-767c-36b6-ad26-4d1f4354fb57
+  '5':
+    rarity: COMMON
+    location:
+      world: world
+      x: 227.0
+      y: 68.0
+      z: 234.0
+      yaw: 0.0
+      pitch: 0.0
+    already_used:
+    - d7a58323-767c-36b6-ad26-4d1f4354fb57
+    - d7a58323-767c-36b6-ad26-4d1f4354fb57
+    - d7a58323-767c-36b6-ad26-4d1f4354fb57
+    - d7a58323-767c-36b6-ad26-4d1f4354fb57
+  '6':
+    rarity: SUPER_RARE
+    location:
+      world: world
+      x: 224.0
+      y: 68.0
+      z: 235.0
+      yaw: 0.0
+      pitch: 0.0
+    already_used:
+    - d7a58323-767c-36b6-ad26-4d1f4354fb57
+  '7':
+    rarity: COMMON
+    location:
+      world: world
+      x: 222.0
+      y: 68.0
+      z: 236.0
+      yaw: 0.0
+      pitch: 0.0
+    already_used:
+    - d7a58323-767c-36b6-ad26-4d1f4354fb57
+  '8':
+    rarity: RARE
+    location:
+      world: world
+      x: 226.0
+      y: 68.0
+      z: 236.0
+      yaw: 0.0
+      pitch: 0.0
+  '9':
+    rarity: ULTRA_RARE
+    location:
+      world: world
+      x: 223.0
+      y: 68.0
+      z: 231.0
+      yaw: 0.0
+      pitch: 0.0
+  '10':
+    rarity: COMMON
+    location:
+      world: world
+      x: 225.0
+      y: 68.0
+      z: 231.0
+      yaw: 0.0
+      pitch: 0.0
+  '11':
+    rarity: EMPTY
+    location:
+      world: world
+      x: 223.0
+      y: 68.0
+      z: 233.0
+      yaw: 0.0
+      pitch: 0.0
+  '12':
+    rarity: COMMON
+    location:
+      world: world
+      x: 226.0
+      y: 68.0
+      z: 233.0
+      yaw: 0.0
+      pitch: 0.0
+  '13':
+    rarity: COMMON
+    location:
+      world: world
+      x: 227.0
+      y: 68.0
+      z: 234.0
+      yaw: 0.0
+      pitch: 0.0
+  '14':
+    rarity: RARE
+    location:
+      world: world
+      x: 224.0
+      y: 68.0
+      z: 235.0
+      yaw: 0.0
+      pitch: 0.0
+  '15':
+    rarity: EMPTY
+    location:
+      world: world
+      x: 222.0
+      y: 68.0
+      z: 236.0
+      yaw: 0.0
+      pitch: 0.0
+  '16':
+    rarity: EMPTY
+    location:
+      world: world
+      x: 226.0
+      y: 68.0
+      z: 236.0
+      yaw: 0.0
+      pitch: 0.0
+  '17':
+    rarity: COMMON
+    location:
+      world: world
+      x: 230.0
+      y: 65.0
+      z: 232.0
+      yaw: 0.0
+      pitch: 0.0
+  '18':
+    rarity: ULTRA_RARE
+    location:
+      world: world
+      x: 232.0
+      y: 65.0
+      z: 232.0
+      yaw: 0.0
+      pitch: 0.0

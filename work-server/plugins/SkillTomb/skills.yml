@@ -1,0 +1,22 @@
+Skills:
+  enabled:
+    - Recall
+    - Mark
+    - Alchemy
+    - AimedShot
+    - Bleed
+  rarities:
+    COMMON:
+      skills:
+        - Recall
+    RARE:
+      skills:
+        -Mark
+    SUPER_RARE:
+      skills:
+        - Alchemy
+        - AimedShot
+    ULTRA_RARE:
+      skills:
+        - Bleed
+

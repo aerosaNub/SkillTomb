@@ -1,0 +1,7 @@
+name: SkillTomb
+main: net.abyssalcraft.skilltomb.SkillTomb
+version: 0.0.5
+author: Nathan
+depend: [Heroes]
+commands:
+  skilltomb:

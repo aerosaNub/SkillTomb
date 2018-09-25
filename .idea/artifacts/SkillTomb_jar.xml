@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="SkillTomb.jar">
+    <output-path>$PROJECT_DIR$/work-server/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="SkillTomb.jar">
+        <element id="module-output" name="SkillTomb" />
+        <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>
